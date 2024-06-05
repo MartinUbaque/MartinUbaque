@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín!</h1>
 <h3 align="center">A passionate fullstack developer from Bogotá, Colombia</h3>
 
-- 🔭 I’m currently working on **Financial Systems Company**
+- 🔭 I’m currently working on **LingoQuesto**
 
 - 🌱 I’m currently learning **Jenkins**
 
