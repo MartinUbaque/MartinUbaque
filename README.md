@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jenkins**
 
-- 👯 I’m also co-founder and lead developer in **Fellow and LingoQuesto**
+- 👯 I’m also co-founder and lead developer in **Memorio and LingoQuesto**
 
 - 💬 Ask me about **Nest.js, ChatGPT integrations and Chatbots!**
 
