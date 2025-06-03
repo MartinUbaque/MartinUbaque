@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **LingoQuesto**
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Prompt Engineering**
 
 - 👯 I’m also co-founder and lead developer in **Memorio and LingoQuesto**
 
-- 💬 Ask me about **Nest.js, ChatGPT integrations and Chatbots!**
+- 💬 Ask me about **Django, ChatGPT integrations and Chatbots!**
 
 - 📫 How to reach me **martin.ubaque@gmail.com**
 
