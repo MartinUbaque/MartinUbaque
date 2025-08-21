@@ -7,7 +7,7 @@
 
 - 👯 I’m also co-founder and lead developer in **Memorio and LingoQuesto**
 
-- 💬 Ask me about **Django, ChatGPT integrations and Chatbots!**
+- 💬 Ask me about **Django, AI agents and Chatbots!**
 
 - 📫 How to reach me **martin.ubaque@gmail.com**
 
